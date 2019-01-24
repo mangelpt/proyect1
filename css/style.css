@@ -1,3 +1,5 @@
-*{
-
+.jumbotron {
+    background: url("https://images.pexels.com/photos/1583293/pexels-photo-1583293.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+    background-repeat: no-repeat;
+    background-size: cover;
 }
